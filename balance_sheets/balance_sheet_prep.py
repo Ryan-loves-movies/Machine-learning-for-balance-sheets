@@ -1,0 +1,2 @@
+balance_sheet_link = "https://financialmodelingprep.com/api/v3/financials/balance-sheet-statement/{}"
+# Balance sheet is arranged from latest to earliest --> E.g. 2019 first, then 2018, 2017 ... , [2019,2018,2017, ... ]
