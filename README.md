@@ -1,4 +1,4 @@
-# machine-learning-for-balance-sheets
+# Machine-learning-for-balance-sheets
 So..., let's begin!
 I approached this project in 5 phases -- 
 
